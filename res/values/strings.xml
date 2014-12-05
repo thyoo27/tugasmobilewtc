@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileWTC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_optik_international">Optik International</string>
+    <string name="title_activity_optik_tunggal">Optik Tunggal</string>
+    <string name="title_activity_watch_square">Watch Square</string>
+
+</resources>
